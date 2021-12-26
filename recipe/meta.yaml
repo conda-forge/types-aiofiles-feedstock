@@ -1,5 +1,5 @@
 {% set name = "types-aiofiles" %}
-{% set version = "0.7.1" %}
+{% set version = "0.7.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-aiofiles-{{ version }}.tar.gz
-  sha256: 20026fe5d8f8d18c2ee3c3d817fdd70ffe067144b9ec238833cb90a8ac226a21
+  sha256: 50de991fdf8f43bfe6ed8eb79d888a24d86b72a3e66fa526e241f65a739da1b4
 
 build:
   number: 0
