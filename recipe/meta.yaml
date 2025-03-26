@@ -1,4 +1,4 @@
-{% set version = "24.1.0.20241221" %}
+{% set version = "24.1.0.20250326" %}
 
 package:
   name: types-aiofiles
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-aiofiles/types_aiofiles-{{ version }}.tar.gz
-  sha256: c40f6c290b0af9e902f7f3fa91213cf5bb67f37086fb21dc0ff458253586ad55
+  sha256: c4bbe432fd043911ba83fb635456f5cc54f6d05fda2aadf6bef12a84f07a6efe
 
 build:
   number: 0
