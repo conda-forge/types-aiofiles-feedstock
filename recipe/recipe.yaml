@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "25.1.0.20260508"
+  version: "25.1.0.20260518"
 
 package:
   name: types-aiofiles
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-aiofiles/types_aiofiles-${{ version }}.tar.gz
-  sha256: d26b07bb28f36c154c77d33982e506ee462044932d42c4eea6e78f69d1de5b84
+  sha256: c0c95eb78755d4fa7b397d4f0332c632714dd7cd0d17f49b96e31d4d7a8d8c76
 
 build:
   number: 0
